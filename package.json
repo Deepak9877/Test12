@@ -1,0 +1,7 @@
+{
+  "name": "test12",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Temporary package metadata to enable internal lockfile automation testing",
+  "license": "UNLICENSED"
+}
